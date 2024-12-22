@@ -1,9 +1,1 @@
-#include <iostream>
-#include <string>
-
-int main()
-{
-  // write code here
-  
-  return 0;
-}
+int x = 25 
