@@ -17,7 +17,7 @@ After you have compiled the code, run your output file by running
 ## Compile and Run Example
 Suppose I have a file named `classwork.cpp`.  I compile and run the file by doing
 ```
-g++ classwork.cpp -o output
+-g++ classwork.cpp -o output
 ./output
 ```
 

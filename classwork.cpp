@@ -1,1 +1,2 @@
-int x = 25 
+int Age = 16
+std::cout Age
